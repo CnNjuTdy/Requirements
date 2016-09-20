@@ -22,7 +22,7 @@
 ## 开发人员帮助
 
 1. 使用的软件是Typora，亲测好用
-2. MarkDown基本语法参考http://www.appinn.com/markdown/（中文）或者http://support.typora.io/Markdown-Reference/（英文），比较简单，和html有点像不过没有满篇的<>，比较友好。重点关注的是排版，图片，代码，表格这几个。
+2. MarkDown基本语法参考http://www.appinn.com/markdown/,（中文）或者http://support.typora.io/Markdown-Reference/,（英文），比较简单，和html有点像不过没有满篇的<>，比较友好。重点关注的是排版，图片，代码，表格这几个。
 3. 这款软件可以不用记住md语法使用因为有ui界面
 4. 基本想法是用md写好再转pdf，这款软件可以一键输出pdf，很漂亮
 5. img包用来放图片，因为md文件里图片是路径格式的（转成pdf是没问题的）
